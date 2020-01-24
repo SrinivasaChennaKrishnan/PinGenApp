@@ -1,2 +1,0 @@
-# PinGenApp
-Created with CodeSandbox
